@@ -133,10 +133,12 @@ h3{
 
 #movetxt h3{
     width: fit-content;
-    padding: 5px;
-    background-color: rgb(247, 4, 4);
+    padding: 15px;
+    background-color: brown;
     color: white;
-    font-size: 20px;
+    font-size: 15px;
+    word-spacing: 0.3rem;
+    font-weight:500;
 
 }
 .home-article{
@@ -154,6 +156,8 @@ h3{
 
 .home-article span{
     margin : auto;
+    color: rgb(73, 71, 71);
+    
 }
 .home-article a{
     margin : auto;
@@ -187,7 +191,15 @@ h3{
     margin-left: 45px;
 }
 
+.main-blog-content h3{
+    font-size: medium;
+    word-spacing: 0.12rem;
+}
+
 .main-blog-content span{
     padding-top: 5px;
+    color: rgb(73, 71, 71);
 }
+
+
 
